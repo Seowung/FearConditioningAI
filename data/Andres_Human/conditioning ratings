@@ -1,0 +1,12 @@
+4/12/2023
+Andres Keil
+
+thanks, it is best if you take the most recent ratings we have, from the same stimuli and design that McTeague et al 2015 used, but with more people. these are ratings from 63 participants. I think for your paper we should forget about the control stimulus with completely different orientation, it makes the figures more complicated and it does not do anything, but happy to send as well. here are the valence (displeasure) ratings for the 7 stimuli, you can paste into matlab or whatever from here :-) 
+
+before =  [4.31746031746032 4.23809523809524 4.03174603174603 4.28571428571429 4.31746031746032 4.50793650793651 4.307760000000]
+
+after =[3.39682539682540 3.55555555555556 5.42857142857143 7.25396825396825 6.20634920634921 4.74603174603175 3.98412698412698]
+
+scale goes from 1 (most pleasant) to 9 (most unpleasant)
+
+does this make sense? you need anything else regarding this? I will send the RSA in separate email. 
