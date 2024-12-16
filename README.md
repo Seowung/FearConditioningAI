@@ -63,7 +63,7 @@ This code is written to develop the model from scratch. Below are the variables 
 python train_regression.py --data_dir ./data --TRAIN IAPS_split_train --VAL IAPS_split_val --TEST IAPS_split_test --csv_train IAPS_split_train.csv --csv_val IAPS_split_val.csv --csv_test IAPS_split_test.csv --batch_size 10 --lr 1e-4 --model_to_run 6 --model_dir ./savedmodel --is_fine_tune True 
 ```
 
-*Because of the confidentiality issue, the IAPS dataset will not be provided to the public.*
+*Because of the confidentiality issue, the IAPS dataset will not be provided to the public. However, the model weights trained with ckvideo and IAPS (used in the conditioning) is provided in /savedmodel directory*
 
 ### train_finetuning.py
 
